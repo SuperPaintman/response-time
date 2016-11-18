@@ -7,6 +7,11 @@
 Response time for **Crystal** servers.
 
 
+This module set response HTTP Header
+
+> X-Response-Time: 0.0722ms
+
+
 ## Installation
 
 Add this to your application's `shard.yml`:
