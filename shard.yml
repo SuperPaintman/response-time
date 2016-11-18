@@ -1,0 +1,10 @@
+name: response_time
+version: 0.1.0
+
+authors:
+  - SuperPaintman <SuperPaintmanDeveloper@gmail.com>
+
+description: |
+  Response time for Crystal servers.
+
+license: MIT
