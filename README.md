@@ -7,7 +7,7 @@
 Response time for **Crystal** servers.
 
 
-This module set response HTTP Header
+This module set response HTTP Header like this:
 
 > X-Response-Time: 0.0722ms
 
