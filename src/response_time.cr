@@ -3,7 +3,9 @@ require "http/server/handler"
 require "./response_time/*"
 
 module ResponseTime
-  class Handler < HTTP::Handler
+  class Handler
+    include HTTP::Handler
+
     def initialize(@header = "X-Response-Time", @suffix = true)
     end
 
